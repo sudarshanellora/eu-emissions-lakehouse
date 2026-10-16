@@ -1,4 +1,8 @@
 # Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# environment_version = "2"
+# ///
 # MAGIC %md
 # MAGIC # 00 · Setup
 # MAGIC Creates the medallion schemas and a Unity Catalog volume for raw files.
